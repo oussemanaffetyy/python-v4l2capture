@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#
+#    
 # python-v4l2capture
 #
 # This file is an example on how to capture a mjpeg video with
